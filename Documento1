@@ -1,6 +1,23 @@
+fffgfuffytfyffyf
 
+<<<<<<< HEAD
 efasjkfhahfjasdjfklasdfjkls
 
 git add .
 git commit -m "Modificacion de julian"
+=======
+git add .
+git commit -m "Commit 5"
+git push
+
+commit 5
+commit 6
+
+git add .
+git commit -m "crear archivo Jaffet"
+>>>>>>> 0f41b192036284a7a27e5c269f754ed73dc40036
+git push
+
+git add .
+git commit -m "Edicion XX"
 git push
