@@ -8,5 +8,5 @@ commit 5
 commit 6
 
 git add .
-git commit -m "Commit 6"
+git commit -m "crear archivo Jaffet"
 git push
