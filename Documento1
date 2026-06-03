@@ -1,4 +1,8 @@
 fffgfuffytfyffyf
+<<<<<<< HEAD
+modificando ARCG
+HDOIUHEOGHOUDFHG
+=======
 
 <<<<<<< HEAD
 efasjkfhahfjasdjfklasdfjkls
@@ -6,6 +10,7 @@ efasjkfhahfjasdjfklasdfjkls
 git add .
 git commit -m "Modificacion de julian"
 =======
+>>>>>>> 1d5c02e4a7608b75bc899b3a6eefdbfe3a6057f6
 git add .
 git commit -m "Commit 5"
 git push
